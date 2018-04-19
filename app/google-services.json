@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "218045150033",
+    "firebase_url": "https://ladwa-gaushala.firebaseio.com",
+    "project_id": "ladwa-gaushala",
+    "storage_bucket": "ladwa-gaushala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218045150033:android:fc3705d55cdb861f",
+        "android_client_info": {
+          "package_name": "com.rs.ladwagushala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218045150033-3fihpnl035l65lk2d8ig8muter8javtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rs.ladwagushala",
+            "certificate_hash": "4aab92ab1bf55eff24a8cb97b5ed393553e8f43c"
+          }
+        },
+        {
+          "client_id": "218045150033-ijnsh00614h70d7vn8o8t8pcn6u5nhsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm1CG9TsBOnNtYq2oAz7YFk_tu5FYqwQs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218045150033-ijnsh00614h70d7vn8o8t8pcn6u5nhsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Unnat Bharat</string>
+    <string name="title_activity_home_page">HomePage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="services">Services</string>
+    <string name="facebook_app_id">604703796595054</string>
+
+    // Enquire Now fragment =-----------------------/////////////////////
+    <string name="donation_description">Your small support can bring a revolution into COW Protection.Donate to serve Cows-Gau Seva and make a donation in Kind</string>
+    <string name="donation_description1">अगर आप पंचगव्य आधारित प्रोडक्ट खरीदते हैं तो उसने देसी गायों की सेवा होती है</string>
+    <string name="enquiry_description1">Please Fill Your Details</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="long_text">LADWA, the \'Karmbhumi\' (workplace) of District Hisar (Haryana) is glorious by the grace of God since its inception noble, endeavouring and progressive personalities have emerged here. The PANCHAYAT has been very popular in the surrounding region for encouraging fraternity and its justice. In the struggle for freedom, its residents contributed a number of sacrifices and adopting the path of non-violence (Ahimsa) suffered in prisons, Sh. Munshi Ram S/o Kripa Ram Lamba, Sh. Hardayal Singh S/o Sh. Mam Chand, Pd. Sant Lal and Rameshwar Dayal, etc. are some of them.</string>
+
+    <string name="rupee">\u20B9</string>
+    <string name="app_namehindi">Unnat Bharat</string>
+    <string name="Address_here">Shri Hanuman Gaupathy Ayurvedic Ltd.Village: Ladwa Hisar-125006 Haryana (India)Phone: +91-9896600713, +91-9315320285 +91-9992186600, 01662-265377 Email: shreeladwagaushala@gmail.com Toll Free: 180030002680</string>
+    <string name="google_app_name">G+ Login</string>
+
+</resources>

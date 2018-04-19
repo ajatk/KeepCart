@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unnat Bharat</string>
+    // Enquire Now fragment =-----------------------/////////////////////
+   <string name="enquiry_description1">Please Fill Your Details</string>
+     <string name="google_app_name">G+ Login</string>
+</resources>
